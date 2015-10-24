@@ -3,6 +3,6 @@
 
 	<string name="app_name">AS Demo</string>
 
-	<string name="aviasales_marker">74590</string>
-	<string name="aviasales_api_token">9f16d617b9df8b2b6b5d0372711e9d6b</string>
+	<string name="aviasales_marker">26582</string>
+	<string name="aviasales_api_token">768bc085aa4af4c6c6c329c87464387f</string>
 </resources>
